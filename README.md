@@ -29,15 +29,13 @@ Adversarial-Attack-Deepfake
 * [Dong, Y., Fu, Q. A., Yang, X., Pang, T., Su, H., Xiao, Z., & Zhu, J. (2020). Benchmarking adversarial robustness on image classification. In proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 321-331).]
 
 ## Attack - Other
-* Revisiting model fairness via adversarial examples [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123005270?casa_token=Rg0mPO5A32EAAAAA:pdnjwnuRjF_H3C2hw0WMzbjSvbuW8CGzjisHNbHrPU8UrPTNRQR8gm_B87N7LTc83dZVB7vr_CA) [[code]](https://github.com/TaocsZhang/Fairness-Attack-via-Adversarial-Examples)
-* [Zhang, T., Zhu, T., Li, J., Zhou, W., & Yu, P. S. (2023). Revisiting model fairness via adversarial examples. Knowledge-Based Systems, 277, 110777.]
 * Rethinking Impersonation and Dodging Attacks on Face Recognition Systems [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681440?casa_token=EFpWg1Hq8fwAAAAA:VJY953Tt7mTSGD3SOR5zUkje8gJCzkUnAMIogTmZOf0ZPnov46pfcg57ZbTbWE1LBa7evnONgHiVVQ)
 * [Zhou, F., Zhou, Q., Yin, B., Zheng, H., Lu, X., Ma, L., & Ling, H. (2024, October). Rethinking impersonation and dodging attacks on face recognition systems. In Proceedings of the 32nd ACM International Conference on Multimedia (pp. 2487-2496).]
 * Adversarial Attention Perturbations for Large Object Detection Transformers [[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yahn_Adversarial_Attention_Perturbations_for_Large_Object_Detection_Transformers_ICCV_2025_paper.pdf)
 * [Yahn, Z., Tekin, S. F., Ilhan, F., Hu, S., Huang, T., Xu, Y., ... & Liu, L. (2025). Adversarial Attention Perturbations for Large Object Detection Transformers. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 3184-3193).]
 
-## 
-* Influence-Based Fair Selection for Sample-Discriminative Backdoor Attack [[PDF]]()
-* []
-* Revisiting model fairness via adversarial examples [[PDF]]()
-* []
+## Sample
+* Influence-Based Fair Selection for Sample-Discriminative Backdoor Attack [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/35449/37604)
+* [Wei, Q., He, S., Zhang, J., Feng, L., & An, B. (2025, April). Influence-Based Fair Selection for Sample-Discriminative Backdoor Attack. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 39, No. 20, pp. 21474-21481).]
+* Revisiting model fairness via adversarial examples [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123005270?casa_token=Rg0mPO5A32EAAAAA:pdnjwnuRjF_H3C2hw0WMzbjSvbuW8CGzjisHNbHrPU8UrPTNRQR8gm_B87N7LTc83dZVB7vr_CA) [[code]](https://github.com/TaocsZhang/Fairness-Attack-via-Adversarial-Examples)
+* [Zhang, T., Zhu, T., Li, J., Zhou, W., & Yu, P. S. (2023). Revisiting model fairness via adversarial examples. Knowledge-Based Systems, 277, 110777.]
