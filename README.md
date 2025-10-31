@@ -15,6 +15,11 @@ Adversarial-Attack-Deepfake
 * [Lin, L., He, X., Ju, Y., Wang, X., Ding, F., & Hu, S. (2024). Preserving fairness generalization in deepfake detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16815-16825).]
 
 ## Attack - Deepfake
+* Spectrum Translation for Refinement of Image Generation (STIG) Based on Contrastive Learning and Spectral Filter Profile [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28074/28154)
+* [Lee, S., Jung, S. W., & Seo, H. (2024, March). Spectrum translation for refinement of image generation (STIG) based on contrastive learning and spectral filter profile. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 4, pp. 2929-2937).]
+* Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Shamshad_Evading_Forensic_Classifiers_With_Attribute-Conditioned_Adversarial_Faces_CVPR_2023_paper.pdf)
+* [Shamshad, F., Srivatsan, K., & Nandakumar, K. (2023). Evading forensic classifiers with attribute-conditioned adversarial faces. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 16469-16478).]
+
 * AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection [[PDF]](https://arxiv.org/pdf/2312.08675)[[code]](https://github.com/AnonymousUserA/AVA)
 * [Meng, X., Wang, L., Guo, S., Ju, L., & Zhao, Q. (2024, May). Ava: Inconspicuous attribute variation-based adversarial attack bypassing deepfake detection. In 2024 IEEE Symposium on Security and Privacy (SP) (pp. 74-90). IEEE.]
 * StealthDiffusion: Towards Evading Diffusion Forensic Detection through Diffusion Model [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681535?casa_token=IUs-9nw5zgoAAAAA:CfVywyX1FOauGKvwjfRiV9TzhPLSVOj5ySXaUklt8y3h8zwZIoMHA-oxHnjLeoeZzUL_EtFIAGfOww)[[code]](https://github.com/wyczzy/StealthDiffusion)
