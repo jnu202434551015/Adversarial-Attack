@@ -29,6 +29,8 @@ Adversarial-Attack-Deepfake
 * [Dong, Y., Fu, Q. A., Yang, X., Pang, T., Su, H., Xiao, Z., & Zhu, J. (2020). Benchmarking adversarial robustness on image classification. In proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 321-331).]
 
 ## Attack - Other
+* Non-Adaptive Adversarial Face Generation [[PDF]](https://arxiv.org/pdf/2507.12107?)
+* [NIPS 2025]
 * Rethinking Impersonation and Dodging Attacks on Face Recognition Systems [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681440?casa_token=EFpWg1Hq8fwAAAAA:VJY953Tt7mTSGD3SOR5zUkje8gJCzkUnAMIogTmZOf0ZPnov46pfcg57ZbTbWE1LBa7evnONgHiVVQ)
 * [Zhou, F., Zhou, Q., Yin, B., Zheng, H., Lu, X., Ma, L., & Ling, H. (2024, October). Rethinking impersonation and dodging attacks on face recognition systems. In Proceedings of the 32nd ACM International Conference on Multimedia (pp. 2487-2496).]
 * Adversarial Attention Perturbations for Large Object Detection Transformers [[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yahn_Adversarial_Attention_Perturbations_for_Large_Object_Detection_Transformers_ICCV_2025_paper.pdf)
