@@ -15,6 +15,10 @@ Adversarial-Attack-Deepfake
 * [Lin, L., He, X., Ju, Y., Wang, X., Ding, F., & Hu, S. (2024). Preserving fairness generalization in deepfake detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16815-16825).]
 
 ## Attack - Deepfake
+* Adversarial Attacks on Deepfake Detectors: A Challenge in the Era of AI-Generated Media (AADD-2025) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3746027.3761983)[[code]](https://github.com/mfs-iplab/aadd-2025)
+* [Battiato, S., Casu, M., Guarnera, F., Guarnera, L., Puglisi, G., Pontorno, O., ... & Akhtar, Z. (2025, October). Adversarial Attacks on Deepfake Detectors: A Challenge in the Era of AI-Generated Media (AADD-2025). In Proceedings of the 33rd ACM International Conference on Multimedia (pp. 13714-13719).]
+* MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3746027.3761986)
+* [Seo, W., Baek, J., Jung, Y., & Park, S. (2025, October). MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition. In Proceedings of the 33rd ACM International Conference on Multimedia (pp. 13730-13736).]
 * Spectrum Translation for Refinement of Image Generation (STIG) Based on Contrastive Learning and Spectral Filter Profile [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28074/28154)
 * [Lee, S., Jung, S. W., & Seo, H. (2024, March). Spectrum translation for refinement of image generation (STIG) based on contrastive learning and spectral filter profile. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 4, pp. 2929-2937).]
 * Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Shamshad_Evading_Forensic_Classifiers_With_Attribute-Conditioned_Adversarial_Faces_CVPR_2023_paper.pdf)
