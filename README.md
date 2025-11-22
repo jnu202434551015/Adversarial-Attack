@@ -45,6 +45,16 @@ Adversarial-Attack-Deepfake
 ## Attack - Other
 * Non-Adaptive Adversarial Face Generation [[PDF]](https://arxiv.org/pdf/2507.12107?)
 * [NIPS 2025]
+* CosPGD: an efficient white-box adversarial attack for pixel-wise prediction tasks [[PDF]](https://arxiv.org/pdf/2302.02213)
+* [ICML 2024]
+* MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_MOS-Attack_A_Scalable_Multi-objective_Adversarial_Attack_Framework_CVPR_2025_paper.pdf) [[code]](https://github.com/pgg3/MOS-Attack)
+* [Guo, P., Gong, C., Lin, X., Liu, F., Lu, Z., Zhang, Q., & Wang, Z. (2025). MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 5041-5051).]
+* ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_ProjAttacker_A_Configurable_Physical_Adversarial_Attack_for_Face_Recognition_via_CVPR_2025_paper.pdf)
+* [Liu, Y., Wei, H., Jia, C., Xiao, R., Ruan, W., Wei, X., ... & Wang, Z. (2025). ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 21248-21257).]
+* Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Adv-CPG_A_Customized_Portrait_Generation_Framework_with_Facial_Adversarial_Attacks_CVPR_2025_paper.pdf)
+* [Wang, J., Zhang, H., & Yuan, Y. (2025). Adv-cpg: A customized portrait generation framework with facial adversarial attacks. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 21001-21010).]
+* Improving the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Improving_the_Transferability_of_Adversarial_Attacks_on_Face_Recognition_with_CVPR_2025_paper.pdf)
+* [Zhou, F., Yin, B., Ling, H., Zhou, Q., & Wang, W. (2025). Improving the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 3516-3527).]
 * TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/29973/31705)
 * [Wu, M., Ma, J., Wang, R., Zhang, S., Liang, Z., Li, B., ... & Wang, L. (2024, March). Traceevader: Making deepfakes more untraceable via evading the forgery model attribution. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 19965-19973).]
 * Rethinking Impersonation and Dodging Attacks on Face Recognition Systems [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681440?casa_token=EFpWg1Hq8fwAAAAA:VJY953Tt7mTSGD3SOR5zUkje8gJCzkUnAMIogTmZOf0ZPnov46pfcg57ZbTbWE1LBa7evnONgHiVVQ)
