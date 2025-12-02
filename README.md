@@ -7,6 +7,8 @@ Adversarial-Attack-Deepfake
 * [Liu, D., Wang, Z., Peng, C., Wang, N., Hu, R., & Gao, X. (2025, April). Thinking racial bias in fair forgery detection: Models, datasets and evaluations. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 39, No. 5, pp. 5379-5387).]
 * AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_AI-Face_A_Million-Scale_Demographically_Annotated_AI-Generated_Face_Dataset_and_Fairness_CVPR_2025_paper.pdf) [[code]](https://github.com/Purdue-M2/AI-Face-FairnessBench)
 * [Lin, L., Santosh, S., Wu, M., Wang, X., & Hu, S. (2025). Ai-face: A million-scale demographically annotated ai-generated face dataset and fairness benchmark. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 3503-3515).]
+* Countering Malicious DeepFakes: Survey, Battleground, and Horizon [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-022-01606-8.pdf)
+* [Juefei-Xu, F., Wang, R., Huang, Y., Guo, Q., Ma, L., & Liu, Y. (2022). Countering malicious deepfakes: Survey, battleground, and horizon. International journal of computer vision, 130(7), 1678-1734.]
 
 ## Fairness-enhanced Model
 * Improving Fairness in Deepfake Detection [[PDF]](https://openaccess.thecvf.com/content/WACV2024/papers/Ju_Improving_Fairness_in_Deepfake_Detection_WACV_2024_paper.pdf)
