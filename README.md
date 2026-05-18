@@ -17,6 +17,10 @@ Adversarial-Attack-Deepfake
 * [Lin, L., He, X., Ju, Y., Wang, X., Ding, F., & Hu, S. (2024). Preserving fairness generalization in deepfake detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16815-16825).]
 
 ## Attack - Deepfake
+* AdvDiffusion: Adversarial Patches Generation for Face Recognition with High Transferability in Physical Domain [[]]()
+* [Peng, F., Liu, Y., Zhou, G., & Long, M. (2026). AdvDiffusion: Adversarial Patches Generation for Face Recognition with High Transferability in Physical Domain. IEEE Transactions on Pattern Analysis and Machine Intelligence.]
+* Adversarial Diffusion Model: Generating High-Quality and Undetectable Images From Scratch [[]]()
+* [Wang, H., Li, S., Qian, Z., & Zhang, X. (2026). Adversarial Diffusion Model: Generating High Quality and Undetectable Images from Scratch. IEEE Transactions on Information Forensics and Security.]
 * Adversarial Attacks on Deepfake Detectors: A Challenge in the Era of AI-Generated Media (AADD-2025) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3746027.3761983) [[code]](https://github.com/mfs-iplab/aadd-2025)
 * [Battiato, S., Casu, M., Guarnera, F., Guarnera, L., Puglisi, G., Pontorno, O., ... & Akhtar, Z. (2025, October). Adversarial Attacks on Deepfake Detectors: A Challenge in the Era of AI-Generated Media (AADD-2025). In Proceedings of the 33rd ACM International Conference on Multimedia (pp. 13714-13719).]
 * MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3746027.3761986)
